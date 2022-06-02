@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/sandrazfd/project_DIO_AVANADE/new/master?readme=1"
   }
 }
