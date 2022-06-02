@@ -1,5 +1,7 @@
 # project_DIO_AVANADE
 
+https://expo.dev/@sandrazfd/project
+
 # Introdução ao React Native. 
 
 # Bootcamp DecolaTech terceira edição Avanade na plataforma da DIO(Digital Innovation One).
